@@ -1,2 +1,2 @@
-# python_assignment
+# TUGAS PYTHON 100 PROGRAM
 Python Exercise
