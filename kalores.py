@@ -3,7 +3,7 @@
 # Soal Kalor Es
 
 print('='*40)
-print('             KALOR ES            ')
+print('               KALOR ES            ')
 print('='*40)
 
 m = float(input('Masukan Massa Es : '))
