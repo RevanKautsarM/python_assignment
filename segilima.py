@@ -1,3 +1,7 @@
+# Dibuat Oleh : Revan
+# Tanggal     : 24-9-2024
+# Soal Segilima
+
 print('='*40)
 print('           PROGRAM SEGI LIMA          ')
 print('='*40)

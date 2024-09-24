@@ -1,3 +1,7 @@
+# Dibuat Oleh : Revan
+# Tanggal     : 24-9-2024
+# Soal Segitiga
+
 print('====================================')
 print('         PROGRAM SEGITIGA           ')
 print('====================================')

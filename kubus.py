@@ -1,6 +1,6 @@
-#Dibuat Oleh : Revan
-#Tanggal     : 24-09-2024
-#Soal Kubus
+# Dibuat Oleh : Revan
+# Tanggal     : 24-9-2024
+# Soal Kubus
 
 print('='*40)
 print('             PROGRAM KUBUS           ')
