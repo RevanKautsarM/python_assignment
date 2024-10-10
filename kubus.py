@@ -1,14 +1,14 @@
 # Dibuat Oleh : Revan
 # Tanggal     : 24-9-2024
-# Soal Kubus
+# Soal Persegi
 
 print('='*40)
-print('             PROGRAM KUBUS           ')
+print('             PROGRAM PERSEGI           ')
 print('='*40)
+def persegi():
+ s = int(input('Masukan Sisi Persegi: '))
 
-s = int(input('Masukan Sisi Kubus: '))
-
-v = s*s*s
-lp = 6*s*s
-print('Volume Kubus Adalah: ',v ,'cm')
-print('Luas Kubus Adalah: ',lp ,'cm')
+ l = lambda s: s * s
+ k = lambda s: 4 * s
+ print('Volume Persegi Adalah: ',l(s) ,'cm')
+ print('Luas Persegi Adalah: ',k(s) ,'cm')
