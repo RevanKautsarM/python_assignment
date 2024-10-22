@@ -1,6 +1,6 @@
 # Dibuat Oleh : Revan
 # Tanggal     : 21-10-2024
-# Soal Lingkaran
+# Soal Lingkaran/PROJECT100
 
 import os
 os.system('cls')

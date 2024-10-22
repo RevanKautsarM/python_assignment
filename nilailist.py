@@ -1,3 +1,6 @@
+# Dibuat Oleh   : Revan Kautsar Mulyana
+# Tanggal       : 22-10-2024
+# PROJECT 100
 nilai = []
 jml = int(input('Jumlah Yang Akan Di Input\t:'))
 

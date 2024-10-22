@@ -1,6 +1,6 @@
 # Dibuat Oleh : Revan
 # Tanggal     : 24-9-2024
-# Soal Segitiga
+# Soal Segitiga/PROJECT100
 
 print('====================================')
 print('         PROGRAM SEGITIGA           ')

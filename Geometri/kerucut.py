@@ -1,6 +1,6 @@
 # Dibuat Oleh : Revan Kautsar Mulyana 
 # Tanggal     : 21-10-2024
-# Soal Kerucut
+# Soal Kerucut/PROJECT100
 
 import math
 import os

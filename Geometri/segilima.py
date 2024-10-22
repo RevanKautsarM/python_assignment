@@ -1,6 +1,6 @@
 # Dibuat Oleh : Revan
 # Tanggal     : 24-9-2024
-# Soal Segilima
+# Soal Segilima/PROJECT100
 
 print('='*40)
 print('           PROGRAM SEGI LIMA          ')

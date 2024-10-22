@@ -1,3 +1,6 @@
+# Dibuat Oleh : Revan Kautsar Mulyana
+# Tanggal     : 22-10-2024
+# PROJECT 100
 while True:
  siswa = input ('Masukan Nilai Siswa \t:')
 
