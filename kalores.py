@@ -1,3 +1,7 @@
+# Dibuat Oleh : Revan Kautsar Mulyana 
+# Tanggal     : 22-10-2024
+# PROJECT100
+
 print('='*40)
 print('           KALOR ES')
 print('='*40)
