@@ -2,8 +2,6 @@
 # Tanggal     : 8-11-2024
 # PROJECT100
 
-q2 = m*l
-print('Kalor Lebur Es\t: ', q2)
 import os
 os.system('cls')
 print('='*40)
