@@ -1,3 +1,6 @@
+# Dibuat Oleh : Revan Kautsar Mulyana 
+# Tanggal     : 07-01-2025
+# PROJECT100
 def jumlah_kalori():
     berat_badan = float(input("Masukkan berat badan (kg): "))
     tinggi_badan = float(input("Masukkan tinggi badan (cm): "))

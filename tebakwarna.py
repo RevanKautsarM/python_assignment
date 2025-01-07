@@ -1,3 +1,6 @@
+# Dibuat Oleh : Revan Kautsar Mulyana 
+# Tanggal     : 07-01-2025
+# PROJECT100
 import random
 
 def tebak_warna():

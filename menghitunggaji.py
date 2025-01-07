@@ -1,3 +1,6 @@
+# Dibuat Oleh : Revan Kautsar Mulyana 
+# Tanggal     : 07-01-2025
+# PROJECT100
 def gaji_karyawan():
     nama = input("Masukkan nama: ")
     jam_kerja = float(input("Masukkan jam kerja: "))
